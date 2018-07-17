@@ -41,20 +41,7 @@ h2 {
     font-size: 2em;
 }
 
-.small {
-    font-size: 0.8em;
-}
-
-p {
-    color: #555;
-    font-size: 1em;
-    margin: 0 0 20px 0;
-}
-
-p {
-    display: block;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
 }
